@@ -1,2 +1,3 @@
 this is an test
 add another line
+Git has a mutable index called stage.
